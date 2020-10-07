@@ -96,3 +96,71 @@
     
 }
 
+.places {
+
+}
+
+.place {
+
+}
+
+.place__title {
+
+font-family: Inter;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 76px;
+/* or 106% */
+
+color: #FFFFFF;
+
+}
+
+.place__image {
+
+}
+
+.place__website {
+
+}
+
+.place__website_url-heading {
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+letter-spacing: 0.2em;
+
+color: #AAAAAA;
+}
+
+.place__website_link {
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+text-decoration-line: underline;
+
+color: #FFFFFF;
+}
+
+.place__text {
+
+}
+
+.place__paragraph {
+
+}
+.cover {
+
+}
+
+.footer {
+    
+}
