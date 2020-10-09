@@ -1,0 +1,17 @@
+.place__top-part {
+    margin-bottom: 48px;
+    display: flex;
+    width: 100%;
+}
+
+
+
+@media screen and (max-width: 1023px) { 
+
+}
+
+@media screen and (max-width: 767px) { 
+    .place__top-part {
+        margin-bottom: 32px;
+    }
+}

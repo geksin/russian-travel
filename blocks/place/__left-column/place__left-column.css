@@ -1,0 +1,25 @@
+.place__left-column {
+    width: 47%;
+    margin-right: 40px;
+    flex-shrink: 0;
+}
+
+@media screen and (max-width: 1279px) {
+    .place__left-column {
+        margin-right: 32px;
+    }
+
+}
+
+@media screen and (max-width: 1023px) { 
+    .place__left-column {
+        margin-right: 28px;
+    }
+
+}
+
+@media screen and (max-width: 767px) { 
+    .place__left-column {
+        width: 100%;
+    }
+}
