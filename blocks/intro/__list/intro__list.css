@@ -3,3 +3,9 @@
     list-style-type: none;
     padding-left: 0;
 }
+
+@media screen and (max-width: 1023px) { 
+    .intro__list {
+        margin-top:32px;
+    }
+}
