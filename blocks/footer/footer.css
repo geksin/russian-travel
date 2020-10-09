@@ -4,12 +4,11 @@
 
 .footer {
     max-width: 1184px;
-    margin: 0 auto; 
+    margin: 0 auto;
     padding-bottom: 24px;
     display: flex;
     justify-content: space-between;
 }
-
 
 @media screen and (max-width: 1279px) {
     .footer {
@@ -19,13 +18,13 @@
 
 @media screen and (max-width: 1023px) { 
     .footer {
-        max-width: 720px; 
+        max-width: 720px;
     }
 }
 
 @media screen and (max-width: 767px) { 
     .footer {
-        max-width: 288px; 
+        max-width: 288px;
         flex-direction: column;
     }
 }
