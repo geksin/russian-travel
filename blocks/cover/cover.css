@@ -2,7 +2,6 @@
 @import url(../cover/__subtitle/cover__subtitle.css);
 @import url(../cover/__title/cover__title.css);
 
-
 .cover {
     margin: 92px auto;
     background-image: url(../../images/cover-trains.jpg);

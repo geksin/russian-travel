@@ -1,4 +1,4 @@
-.place__website_link {
+.place__website-link {
     font-weight: 400;
     font-size: 18px;
     line-height: 1.22;
@@ -7,6 +7,6 @@
     transition: 0.3s;
 }
 
-.place__website_link:hover {
+.place__website-link:hover {
     color: #949494;
 }

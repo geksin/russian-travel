@@ -4,11 +4,9 @@
     font-size: 72px;
     line-height: 1.06;
     color: #FFFFFF;
+    grid-area: header;
 }
 
-@media screen and (max-width: 1279px) {
-
-}
 
 @media screen and (max-width: 1023px) { 
     .place__title {

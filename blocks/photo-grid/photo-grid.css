@@ -2,7 +2,7 @@
 
 .photo-grid {
     display: grid;
-    margin:92px 0;
+    margin:92px auto;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);
     max-width: 1184px;
@@ -39,4 +39,3 @@
         grid-gap: 12px;
     }
 }
-

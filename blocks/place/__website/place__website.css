@@ -3,12 +3,7 @@
     align-self: flex-end;
     font-size: 18px;
     line-height: 1.5;
-}
-
-
-
-@media screen and (max-width: 1023px) { 
-    
+    grid-area: url;
 }
 
 @media screen and (max-width: 767px) { 
