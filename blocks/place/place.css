@@ -40,8 +40,8 @@
 @media screen and (max-width: 767px) { 
     .place {
         grid-template-rows: auto;
-        grid-template-columns: 320px auto auto ;
-        grid-template-areas: 
+        grid-template-columns: 320px auto auto;
+        grid-template-areas:
         "header"
         "image"
         "text";
