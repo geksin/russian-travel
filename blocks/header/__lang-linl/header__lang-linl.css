@@ -5,6 +5,11 @@
     text-decoration-line: none;
     padding-left: 18px;
     color: #ffffff;
+    transition: 0.3s;
+}
+
+.header__lang-linl:hover {
+    color: #949494;
 }
 
 @media screen and (max-width: 767px) { 
