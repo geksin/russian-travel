@@ -7,7 +7,7 @@
 @import url(../place/__top-part/place__top-part.css);
 @import url(../place/__website/place__website.css);
 @import url(../place/__website/_url-heading/place__website_url-heading.css);
-@import url(../place/__website_link/place__website_link.css);
+@import url(../place/__website/_link/place__website_link.css);
 
 .place {
     display: flex;
