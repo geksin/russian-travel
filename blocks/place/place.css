@@ -3,7 +3,7 @@
 @import url(../place/__text/place__text.css);
 @import url(../place/__title/place__title.css);
 @import url(../place/__website/place__website.css);
-@import url(../place/__website/_url-heading/place__website_url-heading.css);
+@import url(../place/__website-url-heading/place__website-url-heading.css);
 @import url(../place/__website-link/place__website-link.css);
 
 .place {

@@ -3,10 +3,10 @@
     font-size: 18px;
     line-height: 1.22;
     text-decoration-line: underline;
-    color: #FFFFFF;
+    color: rgba(255, 255, 255, 1);
     transition: 0.3s;
 }
 
 .place__website-link:hover {
-    color: #949494;
+    color: rgba(255, 255, 255, 0.8);
 }

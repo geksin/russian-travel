@@ -4,12 +4,13 @@
     line-height: 1.17;
     text-decoration-line: none;
     padding-left: 18px;
-    color: #ffffff;
+    color: rgba(255, 255, 255, 1);
+    ;
     transition: 0.3s;
 }
 
 .header__lang-linl:hover {
-    color: #949494;
+    color: rgba(255, 255, 255, 0.8);
 }
 
 @media screen and (max-width: 767px) { 
